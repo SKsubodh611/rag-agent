@@ -1,0 +1,7 @@
+qid	question	expected_answer_contains	source
+1	What is the return window for products purchased on WhatsApp?	30 days	refund_policy.md
+2	How much discount can Service Plus get on annual billing?	15%	pricing.md
+3	Which Widget has IP67 and what Bluetooth version does it support?	Widget B	product_specs_widget.md
+4	If login fails, what should a user try first?	reset the password	troubleshooting.md
+5	Name one improvement in Release Notes v2.3 related to refunds.	Improved refund flow	release_notes.md
+6	List the steps to onboard a new user up to installation.	Create an account	onboarding_guide.md
